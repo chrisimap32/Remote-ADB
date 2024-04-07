@@ -7,7 +7,7 @@
 #### [FAQ](./md/tutorials.md)
 
 ## Shell features:
-1. Support Android 4.X-Android 13
+1. Support Android 1 Android 16
 2. Support pair mode
 3. Support wifi wireless adb.
 4. Support local shell adb.
@@ -39,10 +39,11 @@
 12. Support view system information.
 13. Support view prop information.
 
-## Feedback
+ls## Feedback
 - [Github issues](https://github.com/jarhot1992/Remote-ADB/issues)
 - [Email]() colorboxguestservice@gmail.com
 
 ## Learn adb
 - [Google adb details](https://developer.android.com/studio/command-line/adb)
 - [awesome-adb](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
+.
